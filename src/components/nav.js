@@ -1,3 +1,4 @@
+/* eslint-disable indent */
 import React, { useState, useEffect } from 'react';
 import { Link } from 'gatsby';
 import PropTypes from 'prop-types';
@@ -33,7 +34,7 @@ const StyledHeader = styled.header`
 
   @media (prefers-reduced-motion: no-preference) {
     ${props =>
-    props.scrollDirection === 'up' &&
+      props.scrollDirection === 'up' &&
       !props.scrolledToTop &&
       css`
         height: var(--nav-scroll-height);
@@ -43,7 +44,7 @@ const StyledHeader = styled.header`
       `};
 
     ${props =>
-    props.scrollDirection === 'down' &&
+      props.scrollDirection === 'down' &&
       !props.scrolledToTop &&
       css`
         height: var(--nav-scroll-height);
@@ -173,7 +174,11 @@ const Nav = ({ isHome }) => {
   );
 
   const ResumeLink = (
-    <a className="resume-button" href="/resume.pdf" target="_blank" rel="noopener noreferrer">
+    <a
+      className="resume-button"
+      href="https://drive.google.com/file/d/1PcWh2yJaPvYE2e2ZRPVgbyK5T4Ez1sQD/view?usp=share_link"
+      target="_blank"
+      rel="noopener noreferrer">
       Resume
     </a>
   );
