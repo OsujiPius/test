@@ -1,6 +1,6 @@
 ---
 date: '3'
-title: 'Build a Spotify Connected App'
+title: 'ZuriChat'
 cover: './zuri.png'
 external: 'https://zuri.chat'
 cta: 'https://github.com/zurichat/zc_main'
