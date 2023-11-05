@@ -5,7 +5,7 @@ module.exports = {
     title: 'Pius Osuji',
     description:
       'Pius Osuji is a software engineer specializing in building different software solutions primarily for the web.',
-    siteUrl: 'https://brittanychang.com', // No trailing slash allowed!
+    siteUrl: 'https://osuji.xyz', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@pius_osuji',
   },
