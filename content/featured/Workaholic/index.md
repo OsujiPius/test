@@ -1,14 +1,14 @@
 ---
-date: '2'
+date: '1'
 title: 'Workaholic'
-cover: './demo.png'
+cover: './workaholic.png'
 github: 'https://github.com/OsujiPius/workaholic'
 external: 'https://workaholic.netlify.app/'
 tech:
   - React
   - React-spring
-  - Material-UI
   - Firebase
+  - Klaviyo
 ---
 
-A web app for employees/users to see and apply to jobs. With authentication handled with Firebase
+Workaholic aims to streamline the job search and career development process by offering a one-stop solution for job seekers. It leverages Firebase for authentication, Stripe for payments, and NewsAPI for curated content, providing a comprehensive and user-friendly platform.

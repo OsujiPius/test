@@ -150,10 +150,7 @@ const About = () => {
               and teachers.
             </p>
             <p>
-              Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://upwork.com/">freelancing website</a>,{' '}
-              <a href="https://credib.io/">a start-up</a>, and . My main focus these days is
-              building accessible, inclusive products experiences at{' '}
+              My main focus these days is building accessible, inclusive products experiences at{' '}
               <a href="https://offscript.io/">Offscript</a> for a variety of clients.
             </p>
 
@@ -169,7 +166,7 @@ const About = () => {
           <div className="wrapper">
             <StaticImage
               className="img"
-              src="../../images/pius.jpg"
+              src="https://avatars.githubusercontent.com/u/94569961?v=4"
               width={500}
               quality={95}
               formats={['AUTO', 'WEBP', 'AVIF']}

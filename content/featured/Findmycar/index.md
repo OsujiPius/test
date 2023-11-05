@@ -1,5 +1,5 @@
 ---
-date: '1'
+date: '2'
 title: 'FindMycar'
 cover: './findmycar.png'
 github: 'https://github.com/OsujiPius/findmycar/'

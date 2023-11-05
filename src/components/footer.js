@@ -34,7 +34,7 @@ const StyledSocialLinks = styled.div`
       padding: 10px;
       svg {
         width: 20px;
-        height: 20px;
+        height: 21px;
       }
     }
   }

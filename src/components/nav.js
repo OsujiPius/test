@@ -123,7 +123,7 @@ const StyledLinks = styled.div`
 
   .resume-button {
     ${({ theme }) => theme.mixins.smallButton};
-    margin-left: 15px;
+    margin-left: 14px;
     font-size: var(--fz-xs);
   }
 `;
@@ -176,7 +176,7 @@ const Nav = ({ isHome }) => {
   const ResumeLink = (
     <a
       className="resume-button"
-      href="https://drive.google.com/file/d/1PcWh2yJaPvYE2e2ZRPVgbyK5T4Ez1sQD/view?usp=share_link"
+      href="https://drive.google.com/file/d/1sYpLonpA028K8etOELuf0r1sXAAaUjUq/view?usp=sharing"
       target="_blank"
       rel="noopener noreferrer">
       Resume
