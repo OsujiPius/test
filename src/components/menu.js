@@ -267,9 +267,10 @@ const Menu = () => {
             )}
 
             <a
-              href="https://drive.google.com/file/d/1sYpLonpA028K8etOELuf0r1sXAAaUjUq/view?usp=sharing"
+              href="https://drive.google.com/file/d/1v7UewsKMbrnR1l6Vq6blkO2dl2vVAEn4/view?usp=sharing"
               className="resume-link"
-              target="_blank" rel="noreferrer">
+              target="_blank"
+              rel="noreferrer">
               Resume
             </a>
           </nav>
