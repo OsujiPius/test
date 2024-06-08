@@ -65,10 +65,10 @@ const Hero = () => {
     <>
       <p>
         I’m a software engineer specializing in building different software solutions primarily for
-        the web. Currently, I'm focused on building a unique product that will allow creators have
-        their own personalized shop at {''}
-        <a href="https://offscript.io/" target="_blank" rel="noreferrer">
-          Offscript
+        the web. Currently, I'm focused on building a unique product that will allow users have
+        1-on-1 time with creators, influncers and industry-leading minds at {''}
+        <a href="https://beepmehere.com/" target="_blank" rel="noreferrer">
+          Beepmehere
         </a>
         .
       </p>
