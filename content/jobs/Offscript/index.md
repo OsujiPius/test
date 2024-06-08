@@ -1,13 +1,17 @@
 ---
-date: '2018-05-14'
+date: '2022-08-08'
 title: 'Software Engineer'
 company: 'OffScript'
 location: 'Stockholm, Sweden'
-range: 'August 2022 - Present'
+range: 'Aug 2022 - Jan 2024'
 url: 'https://www.offscript.io/'
 ---
 
-- Optimized the checkout process by integrating Apple Pay, resulting in a 30% increase in conversion rate and a 20% decrease in cart
-  abandonment.
-- Work with a variety of different languages, platforms, frameworks, and content management systems such as JavaScript, TypeScript, Hasura, React, GraphQL.
-- Engineered a blog service feature into the system using React Quill, giving our creators the ability to create personalized blogs in-app which increased their customers enagagement by 20%.
+- Engineered and optimized search functionality using Algolia, resulting in faster and more accurate search results for
+  improved system performance and user satisfaction.
+- Engineered a blog service feature using React Quill, resulting in a 5% increase in user engagement with the creator
+  stores.
+- Integrated with OpenAI API to generate detailed product descriptions for brand products based on the product name
+  and category.
+- Spearheaded and managed the seamless integration of Stripe payment elements and Apple pay in our checkout,
+  optimizing the customer payment experience, resulting in a 10% increase in conversion rate.

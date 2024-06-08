@@ -1,9 +1,9 @@
 ---
-date: '2018-04-01'
+date: '2022-01-01'
 title: 'Lead Frontend Engineer'
 company: 'Credib'
 location: 'Rivers state, Nigeria'
-range: 'July 2022 - Jan 2023'
+range: 'Jan 2022 - Nov 2022'
 url: 'https://credib.io'
 ---
 

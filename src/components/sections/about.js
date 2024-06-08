@@ -125,12 +125,14 @@ const About = () => {
   const skills = [
     'JavaScript (ES6+)',
     'TypeScript',
+    'Node',
     'React',
     'Next',
     'Hasura',
     'GraphQl',
     'Styled-components',
     'Tailwind css',
+    'Material UI',
   ];
 
   return (
@@ -146,12 +148,9 @@ const About = () => {
             </p>
             <p>
               I have improved significantly since starting out, from making static HTML/CSS sites to
-              more complex projects. i have been praised as resourceful and dilligent by my peers
-              and teachers.
-            </p>
-            <p>
-              My main focus these days is building accessible, inclusive products experiences at{' '}
-              <a href="https://offscript.io/">Offscript</a> for a variety of clients.
+              more advanced and complex projects with hands-on experience with a lot of tools and
+              technologies. i have been praised as resourceful and dilligent by my peers and
+              teachers.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
@@ -166,7 +165,7 @@ const About = () => {
           <div className="wrapper">
             <StaticImage
               className="img"
-              src="https://avatars.githubusercontent.com/u/94569961?v=4"
+              src="../../images/pius.jpeg"
               width={500}
               quality={95}
               formats={['AUTO', 'WEBP', 'AVIF']}
