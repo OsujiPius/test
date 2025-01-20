@@ -64,13 +64,9 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a software engineer specializing in building different software solutions primarily for
-        the web. Currently, I'm focused on building a unique product that will allow users have
-        1-on-1 time with creators, influncers and industry-leading minds at {''}
-        <a href="https://beepmehere.com/" target="_blank" rel="noreferrer">
-          Beepmehere
-        </a>
-        .
+        I’m a proficient software engineer with a strong focus on frontend development, specializing
+        in creating dynamic, user-friendly, and scalable web solutions. I excel at transforming
+        complex ideas into intuitive, visually appealing interfaces that enhance user experiences.
       </p>
     </>
   );

@@ -3,7 +3,7 @@ date: '2024-04-03'
 title: 'Frontend Engineer'
 company: 'Beepmehere'
 location: 'United States of America'
-range: 'April 2024 - Present'
+range: 'April 2024 - Jan 2025'
 url: 'https://beepmehere.com/'
 ---
 

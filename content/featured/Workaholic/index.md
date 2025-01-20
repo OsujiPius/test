@@ -1,5 +1,5 @@
 ---
-date: '1'
+date: '2'
 title: 'Workaholic'
 cover: './workaholic.png'
 github: 'https://github.com/OsujiPius/workaholic'
